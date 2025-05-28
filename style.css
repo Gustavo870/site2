@@ -18,7 +18,7 @@ h1{
 }
 
 .explicacao{
-    display: flex;
+    font: 1.5rem;
     padding: 2rem;
     flex-direction: column;
     background-color: #C0C0C0;
