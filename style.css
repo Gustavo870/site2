@@ -56,6 +56,7 @@ img {
 
 /* Removido o nesting inválido */
 .navbar {
+  margin-top: 10px;
   transition: all 1s ease;
   background-color: #98FB98;
   padding: 1.5rem;
